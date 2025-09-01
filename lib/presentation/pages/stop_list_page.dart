@@ -14,7 +14,7 @@ class StopsListPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Stops'),
+        title: const Text('StopSpot'),
         centerTitle: true,
         elevation: 0,
       ),

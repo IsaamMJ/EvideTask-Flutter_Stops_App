@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Central Station",
+    "description": "Main transit hub with metro and buses",
+    "lat": 40.7128,
+    "lng": -74.0060
+  },
+  {
+    "id": 2,
+    "name": "West Side",
+    "description": "Residential area stop",
+    "lat": 40.7308,
+    "lng": -74.0010
+  },
+  {
+    "id": 3,
+    "name": "East Market",
+    "description": "Shopping district stop",
+    "lat": 40.7359,
+    "lng": -73.9903
+  },
+  {
+    "id": 4,
+    "name": "University Gate",
+    "description": "Stop near the university campus",
+    "lat": 40.7291,
+    "lng": -73.9965
+  },
+  {
+    "id": 5,
+    "name": "Airport Terminal",
+    "description": "Shuttle service to airport",
+    "lat": 40.6413,
+    "lng": -73.7781
+  }
+]

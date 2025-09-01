@@ -1,16 +1,33 @@
-# evidetask
+# StopSpot
 
-A new Flutter project.
+A Flutter app for managing transit stops with favorites and search functionality.
+
+## Features
+- View list of transit stops
+- Search and filter stops
+- Add/remove favorites (persisted locally)
+- View detailed stop information with ETA
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- Flutter SDK (3.0+)
+- Dart SDK
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+1. Clone the repository
+2. Navigate to project directory
+3. Run `flutter pub get`
+4. Run `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Project Structure
+- Clean Architecture with Domain/Data/Presentation layers
+- BLoC for state management
+- SharedPreferences for local persistence
+- Asset-based data loading
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+- flutter_bloc: State management
+- shared_preferences: Local storage
+- equatable: Value comparison
+- get_it: Dependency injection

@@ -1,37 +1,212 @@
 [
   {
     "id": 1,
-    "name": "Central Station",
-    "description": "Main transit hub with metro and buses",
-    "lat": 40.7128,
-    "lng": -74.0060
+    "name": "Ernakulam South",
+    "description": "Main bus terminal and railway station junction",
+    "lat": 9.9312,
+    "lng": 76.2673
   },
   {
     "id": 2,
-    "name": "West Side",
-    "description": "Residential area stop",
-    "lat": 40.7308,
-    "lng": -74.0010
+    "name": "Marine Drive",
+    "description": "Waterfront promenade and commercial area",
+    "lat": 9.9647,
+    "lng": 76.2839
   },
   {
     "id": 3,
-    "name": "East Market",
-    "description": "Shopping district stop",
-    "lat": 40.7359,
-    "lng": -73.9903
+    "name": "Lulu Mall",
+    "description": "Major shopping complex in Edapally",
+    "lat": 10.0261,
+    "lng": 76.3109
   },
   {
     "id": 4,
-    "name": "University Gate",
-    "description": "Stop near the university campus",
-    "lat": 40.7291,
-    "lng": -73.9965
+    "name": "Cochin University",
+    "description": "CUSAT campus main entrance",
+    "lat": 10.0450,
+    "lng": 76.3188
   },
   {
     "id": 5,
-    "name": "Airport Terminal",
-    "description": "Shuttle service to airport",
-    "lat": 40.6413,
-    "lng": -73.7781
+    "name": "Cochin International Airport",
+    "description": "Airport terminal bus stop",
+    "lat": 10.1520,
+    "lng": 76.4019
+  },
+  {
+    "id": 6,
+    "name": "Ernakulam Medical Centre",
+    "description": "Major hospital and medical facilities",
+    "lat": 9.9816,
+    "lng": 76.2999
+  },
+  {
+    "id": 7,
+    "name": "Infopark Kochi",
+    "description": "IT park and software companies hub",
+    "lat": 10.0067,
+    "lng": 76.3656
+  },
+  {
+    "id": 8,
+    "name": "Fort Kochi",
+    "description": "Historic area with Chinese fishing nets",
+    "lat": 9.9654,
+    "lng": 76.2424
+  },
+  {
+    "id": 9,
+    "name": "Maharaja's College",
+    "description": "Educational institution in Ernakulam",
+    "lat": 9.9816,
+    "lng": 76.2847
+  },
+  {
+    "id": 10,
+    "name": "Jawaharlal Nehru Stadium",
+    "description": "Sports complex and stadium",
+    "lat": 9.9593,
+    "lng": 76.2728
+  },
+  {
+    "id": 11,
+    "name": "MG Road",
+    "description": "Main shopping street and commercial center",
+    "lat": 9.9816,
+    "lng": 76.2847
+  },
+  {
+    "id": 12,
+    "name": "Mattancherry",
+    "description": "Spice market and historical trading area",
+    "lat": 9.9591,
+    "lng": 76.2594
+  },
+  {
+    "id": 13,
+    "name": "KINFRA Export Promotion Industrial Park",
+    "description": "Industrial area and manufacturing zone",
+    "lat": 10.0328,
+    "lng": 76.3477
+  },
+  {
+    "id": 14,
+    "name": "Kerala Museum",
+    "description": "Cultural center with art galleries",
+    "lat": 9.9816,
+    "lng": 76.2839
+  },
+  {
+    "id": 15,
+    "name": "Panampilly Nagar",
+    "description": "Upscale residential area",
+    "lat": 9.9647,
+    "lng": 76.2922
+  },
+  {
+    "id": 16,
+    "name": "Sacred Heart College",
+    "description": "College campus in Thevara",
+    "lat": 9.9593,
+    "lng": 76.2839
+  },
+  {
+    "id": 17,
+    "name": "Vytilla Hub",
+    "description": "Major bus terminal and mobility hub",
+    "lat": 9.9633,
+    "lng": 76.3050
+  },
+  {
+    "id": 18,
+    "name": "Broadway Market",
+    "description": "Traditional market and street food area",
+    "lat": 9.9816,
+    "lng": 76.2728
+  },
+  {
+    "id": 19,
+    "name": "Kalamassery",
+    "description": "Suburban residential area with metro station",
+    "lat": 10.0328,
+    "lng": 76.3272
+  },
+  {
+    "id": 20,
+    "name": "Rajiv Gandhi Indoor Stadium",
+    "description": "Convention center and exhibition venue",
+    "lat": 10.0067,
+    "lng": 76.3188
+  },
+  {
+    "id": 21,
+    "name": "Cherai Beach",
+    "description": "Beach resort area and backwater access",
+    "lat": 10.1055,
+    "lng": 76.1781
+  },
+  {
+    "id": 22,
+    "name": "Technopark Kochi",
+    "description": "Software technology park",
+    "lat": 10.0067,
+    "lng": 76.3477
+  },
+  {
+    "id": 23,
+    "name": "Jew Town",
+    "description": "Historic Jewish quarter with antique shops",
+    "lat": 9.9591,
+    "lng": 76.2594
+  },
+  {
+    "id": 24,
+    "name": "Aluva Metro Station",
+    "description": "Metro rail interchange and bus terminal",
+    "lat": 10.1081,
+    "lng": 76.3528
+  },
+  {
+    "id": 25,
+    "name": "Subhash Park",
+    "description": "Public park and recreational area",
+    "lat": 9.9816,
+    "lng": 76.2922
+  },
+  {
+    "id": 26,
+    "name": "Oberon Mall",
+    "description": "Shopping mall and entertainment complex",
+    "lat": 10.0261,
+    "lng": 76.3188
+  },
+  {
+    "id": 27,
+    "name": "CIAL Cargo Terminal",
+    "description": "Airport cargo and logistics hub",
+    "lat": 10.1467,
+    "lng": 76.3950
+  },
+  {
+    "id": 28,
+    "name": "Amrita Hospital",
+    "description": "Super specialty hospital and medical college",
+    "lat": 10.0450,
+    "lng": 76.3477
+  },
+  {
+    "id": 29,
+    "name": "Kumbakonam",
+    "description": "Traditional crafts and handloom center",
+    "lat": 9.9647,
+    "lng": 76.2594
+  },
+  {
+    "id": 30,
+    "name": "Kakkanad",
+    "description": "IT corridor with offices and residential complexes",
+    "lat": 10.0067,
+    "lng": 76.3477
   }
 ]
